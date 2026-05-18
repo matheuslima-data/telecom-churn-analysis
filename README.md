@@ -75,19 +75,19 @@ The analysis was developed using:
 
 ### Executive Overview
 
-![Overview](images/overview.png)
+![Overview](images/Overview.png)
 
 ### Customer Analysis
 
-![Customer Analysis](images/customer_analysis.png)
+![Customer Analysis](images/Customer_Analysis.png)
 
 ### Churn Analysis
 
-![Churn Analysis](images/churn_analysis.png)
+![Churn Analysis](images/Churn_Analysis.png)
 
 ### Financial Analysis
 
-![Financial Analysis](images/financial_analysis.png)
+![Financial Analysis](images/Financial_Analysis.png)
 
 ---
 
@@ -110,5 +110,5 @@ Dataset used: Telecom Customer Churn Dataset.
 
 Matheus Silva Lima
 
-LinkedIn: (coloque aqui)
-GitHub: (coloque aqui)
+LinkedIn: (www.linkedin.com/in/matheus-silva-lima-466594292)
+GitHub: (https://github.com/matheuslima-data)
